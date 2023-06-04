@@ -3,7 +3,7 @@
 *[Learn more about my repository naming.](https://github.com/ricoip/ricoip/blob/ricoip/repo-naming.md)*
 
 It's the "Discord CDN dilemma" all over again:  
-Do I put files that I need to reference in the future (≥ 2 years) into something that may disappear like Imgur, Discord, Pastebin etc. or do I put them somewhere I can control.
+> Do I put files that I need to reference in the future (≥ 2 years) into something that may disappear like Imgur, Discord, Pastebin etc. or do I put them somewhere I can control?
 
 The second option won. 
 
